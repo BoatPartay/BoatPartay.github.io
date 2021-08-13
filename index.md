@@ -3,8 +3,8 @@
 
 This is going to be the boat party of the Lisbon Summer 
 
-<p align = "left">
-<iframe width="1300" height="600" src="https://www.youtube.com/embed/w3nH0uEHh7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align = "center">
+<iframe width="1150" height="550" src="https://www.youtube.com/embed/w3nH0uEHh7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 
