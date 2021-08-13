@@ -2,13 +2,14 @@
 
 
 This is going to be the boat party of the Lisbon Summer 
-![Image](https://media.tacdn.com/media/attractions-splice-spp-674x446/07/01/d2/61.jpg)
+
+<iframe width="1664" height="770" src="https://www.youtube.com/embed/w3nH0uEHh7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # When: Pre Drinks @ 9:30am, Boat @ 12:00
 ## Where: 161 Rua dos Remédios, Alfama, Lisboa
 
-## [Pay Here](
+## [Pay Here](https://revolut.me/r/qV9mf0fdMF)
 
 
 ## [Play List - YachtRock!!](https://open.spotify.com/playlist/37i9dQZF1DXb3m918yXHxA)
